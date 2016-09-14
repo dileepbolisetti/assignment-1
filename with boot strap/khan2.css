@@ -1,0 +1,156 @@
+body{
+color: #ffffff;
+vertical-align: baseline;
+background-image: url('https://cdn.kastatic.org/images/homepage/background-learner.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.headerbar{
+text-align: center;
+background-color: transparent;
+border-top: 1px solid transparent !important;
+border-bottom: 1px solid rgba(255, 255, 255, 0.3) !important;
+box-sizing: border-box !important;
+height: 62px !important;
+left: 0px !important;
+position: absolute !important;
+right: 0px !important;
+z-index: 1060 !important;
+-webkit-box-sizing: border-box !important;
+-moz-box-sizing: border-box !important;
+-ms-box-sizing: border-box !important;
+padding-top: 20px;
+}
+.row.headerbar{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.headerbar:hover {
+background: white;
+color: black;
+}
+.headbar:hover svg{
+	color: black !important;
+}
+.logo{
+}
+.logo:hover{
+color:green !important;
+}
+.subsec{
+align-items: center !important;
+}
+.mbody{
+text-align: center;
+padding-top: 100px;
+}
+.bsign{
+padding-left: 32px;
+}
+.search{
+margin-left: 32px;
+color: black !important;
+}
+.search:hover {
+color:black !important;
+}
+.forfree{
+margin-top: 15px;
+padding-left: 28px;
+padding-right: 28px;
+font-size: 20px;
+line-height: 1.4;
+}
+.utext{
+font-size: 35px;
+padding-top: 50px;
+}
+.startle{
+width: 290px !important;
+height: 40px !important;
+margin-left: 535px !important;
+margin-top: 40px;
+text-shadow: none;
+background-color: #669f25;
+background-image: linear-gradient(to bottom,#70b029,#56861f);
+background-repeat: repeat-x;
+border-radius: 30px;
+color: #fff;
+display: block;
+font-size: 18px;
+font-family: inherit;
+height: 30px;
+line-height: 30px;
+padding: 5px;
+width: auto;
+-webkit-font-smoothing: antialiased;
+border: 0;
+font-weight: 600;
+}
+.startle:hover{
+background: rgba(255,255,255,0.1);
+text-decoration: none;
+background-color: #669f25;}
+.teacher{
+width: 290px !important;
+height: 40px !important;
+margin-left: 535px !important;
+text-align: center !important;
+border-left:2px !important;
+border-top:2px !important;
+border-right:2px !important;
+border-bottom:2px !important;
+border-color: #ffffff !important;
+border-style: solid !important;
+text-shadow: none;
+background-color:transparent;
+border-radius: 300px;
+border-color: black;
+color: #fff;
+display: block;
+font-size: 18px;
+font-family: inherit;
+height: 30px;
+line-height: 30px;
+padding: 5px;
+margin-top: 10px;
+margin-bottom: 10px;
+width: auto;
+-webkit-font-smoothing: antialiased;
+border: 0;
+font-weight: 600;
+}
+.teacher:hover{
+background: rgba(255,255,255,0.1);
+text-decoration: none;
+}
+.parent{
+width: 290px !important;
+height: 40px !important;
+margin-left: 535px !important;
+border-left:2px !important;
+border-top:2px !important;
+border-right:2px !important;
+border-bottom:2px !important;
+border-color: #ffffff !important;
+border-style: solid !important;
+text-shadow: none;
+background-color:transparent;
+border-radius: 30px;
+border-color: #ffffff;
+color: #fff;
+display: block;
+font-size: 18px;
+font-family: inherit;
+height: 30px;
+line-height: 30px;
+padding: 5px;
+width: auto;
+-webkit-font-smoothing: antialiased;
+border: 0;
+font-weight: 600;
+}
+.parent:hover{
+background: rgba(255,255,255,0.1);
+text-decoration: none;
+}
